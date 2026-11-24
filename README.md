@@ -1,5 +1,8 @@
 Hi, I'm Vaanisha! 👋
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Research-orange?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ### Aspiring AI & Machine Learning Developer
 
 I'm a student interested in Artificial Intelligence, Machine Learning, Python, and creative AI technologies.
