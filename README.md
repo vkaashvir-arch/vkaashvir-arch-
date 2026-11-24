@@ -12,6 +12,15 @@ I enjoy building independent projects, experimenting with machine learning model
 ---
 
 ## 🚀 Featured Projects
+### 1. GlobalStock AI V5
+[View V5 Repository](https://github.com/vkaashvir-arch/GlobalStock-AI)
+
+An interactive application developed to explore machine-learning-based market direction classification.
+
+### 2. GlobalStock AI V6 — Research Project
+[View V6 Research Repository](https://github.com/vkaashvir-arch/GlobalStock-AI-V6-Research)
+
+An experimental research project involving 33 assets, 132 model experiments, chronological validation, and a documented research report.
 
 ### 1. GlobalStock AI V5
 An interactive application developed to explore machine-learning-based market direction classification.
